@@ -1,5 +1,9 @@
 # Iris Species Classification Dashboard
 
+## Demo
+
+https://proyectomineria-kpfz9chdxnzzsbf67rcdfp.streamlit.app/
+
 ## Información académica
 
 **Asignatura:** Minería de Datos  
